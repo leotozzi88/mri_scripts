@@ -1,3 +1,5 @@
+% This script regresses some confouds out of a timeseries
+
 function newts=regressCfdsfromTS(ts, confoundsmat)
 
 if size(ts, 2)==size(confoundsmat, 1)
