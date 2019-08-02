@@ -57,7 +57,7 @@ for run=1:length(ciftiruns)
     end
     
     % Filter, keeping high frequencies to not lose degrees of freedom
-    rundata_f=highpass(rundata, hpcutoff, samplingrate); % 1/0.720 for HYA
+    rundata_f=highpass(rundata, hpcutoff, samplingrate); 
     
     % Censor motion
     rundata_fm=rundata_f;
