@@ -1,4 +1,5 @@
 # This script BIDSifies HCP subjects from the "raw" folder. It assumes a consistent naming of the folders containing the images.
+# This specific version is a version designed for Linux to be used on the "Reward" server. 
 # If any of the expected files are missing, a logfile is produced.
 # The first argument is the path to the subject directory.
 # The second argument is the path to the folder of the json templates.
