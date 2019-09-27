@@ -1,0 +1,10 @@
+{
+    "TaskName": "emotion",
+    "RepetitionTime": 0.71,
+    "EchoTime": 0.030,
+    "FlipAngle": 54,
+    "PhaseEncodingDirection": "j",
+    "EffectiveEchoSpacing":0.00054,
+    "NumberOfVolumesDiscardedByUser": 2,
+    "TotalReadoutTime": 0.04914
+}

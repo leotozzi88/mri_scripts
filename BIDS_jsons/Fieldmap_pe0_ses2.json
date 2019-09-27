@@ -1,0 +1,6 @@
+{
+"PhaseEncodingDirection": "j",
+"TotalReadoutTime": 0.04914,
+"IntendedFor": ["ses-2/func/SUBNUM_ses-2_task-rest_acq-pe0_bold.nii.gz","ses-2/func/SUBNUM_ses-2_task-rest_acq-pe1_bold.nii.gz"],
+"NumberOfVolumesDiscardedByUser": 2
+}
