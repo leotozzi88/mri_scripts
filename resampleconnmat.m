@@ -1,4 +1,4 @@
-function resampleconnmat(mat, sections)
+function newmat=resampleconnmat(mat, sections)
 
 % takes in a simmetric connectivity matrix and calculates average connectivity within and across the blocks returning a
 % new smaller connectivity matrix
