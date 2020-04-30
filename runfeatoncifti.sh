@@ -164,9 +164,6 @@ done
 
 ### Clean up and BIDSify
 
-# Remove the sphere registrations
-rm lh.sphere.reg.surf.gii rh.sphere.reg.surf.gii
-
 # Remove the volume ROIs
 rm ${FEATDir}/volumeroi.nii
 
